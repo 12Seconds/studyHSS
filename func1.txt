@@ -1,0 +1,4 @@
+const func1()
+{
+	let a = "hello";
+}
